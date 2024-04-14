@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+        <item> Манга </item>
+        <item> Лайт новелла </item>
+        <item> Веб новелла </item>
+    </string-array>
+
+
+    <string-array name="Manga">
+        <item>One piece</item>
+        <item>Naruto</item>
+        <item>Dragon balls</item>
+        <item>jujutsu kaisen</item>
+        <item>Bleach</item>
+        <item>Jojo</item>
+    </string-array>
+
+    <string-array name="LN">
+        <item>Overlord</item>
+        <item>SAO</item>
+        <item>Heavy Object</item>
+        <item>Spice and Wolf</item>
+    </string-array>
+
+    <string-array name="VN">
+        <item>Slime</item>
+        <item>Angel next door</item>
+        <item>Mushoku tensei</item>
+        <item>The Eminence in Shadow</item>
+    </string-array>
+
+
+
+</resources>
